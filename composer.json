@@ -1,5 +1,5 @@
 {
-    "name": "versatecnologia/qr-code",
+    "name": "versatecnologia/Qr-Code",
     "type": "module",
     "description": "Gerador de codigo QrCode",
     "keywords": ["qrCode", "php", "qr"],
@@ -17,7 +17,5 @@
     ],
     "require": {
         "php": ">=5.4.0"
-    },
-    "autoload": {
     }
 }
