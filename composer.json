@@ -6,10 +6,6 @@
     "homepage": "http://phpqrcode.sourceforge.net/",
     "license": "MIT",
     "authors": [
-        {
-            "name": "http://phpqrcode.sourceforge.net/",
-            "email": ""
-        },
 	{
             "name": "Lucas Dornelas Rodrigues",
             "email": "lucasinfod@gmail.com"
