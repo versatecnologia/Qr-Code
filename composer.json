@@ -1,5 +1,5 @@
 {
-    "name": "versatecnologia/Qr-Code",
+    "name": "versatecnologia/qr-code",
     "type": "module",
     "description": "Gerador de codigo QrCode",
     "keywords": ["qrCode", "php", "qr"],
